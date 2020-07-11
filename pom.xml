@@ -33,6 +33,35 @@
 			<artifactId>testng</artifactId>
 			<version>7.0.0-beta3</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>4.3.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.rest-assured/json-path -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-path</artifactId>
+    <version>4.3.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.rest-assured/xml-path -->
+<dependency>
+
+    <groupId>io.rest-assured</groupId>
+    <artifactId>xml-path</artifactId>
+    <version>4.3.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core -->
+
+<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-schema-validator</artifactId>
+    <version>3.0.0</version>
+</dependency>
+
+		
   </dependencies>
 </project>
 
